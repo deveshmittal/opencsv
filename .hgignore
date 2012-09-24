@@ -3,5 +3,3 @@ syntax: regexp
 ^build$
 syntax: regexp
 ^deploy$
-syntax: regexp
-^doc/api$
